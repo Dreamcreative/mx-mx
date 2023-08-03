@@ -1,0 +1,21 @@
+{
+  "name": "mx-mx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx -y only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "@types/node": "^20.4.6",
+    "dayjs": "^1.11.9"
+  },
+  "peerDependencies": {
+    "@types/node": "*",
+    "dayjs": "*"
+  }
+}

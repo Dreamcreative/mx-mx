@@ -1,0 +1,15 @@
+{
+  "name": "@mx-mx/foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@workspace-test/utils": "workspace:1.0.0"
+  }
+}
